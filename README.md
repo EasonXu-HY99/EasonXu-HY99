@@ -85,10 +85,6 @@ Created a comprehensive security framework for multi-cloud environments with aut
 - Knowledge of ICS/SCADA security and industrial control systems
 - Implementation of secure boot and hardware security modules
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=easonxu-hy99&show_icons=true&theme=radical)
-
 ## 📫 Contact Me
 
 - 🌐 Website: [haiyangxu.netlify.app](https://haiyangxu.netlify.app/)

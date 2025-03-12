@@ -25,10 +25,85 @@ I'm a computer science graduate specializing in cybersecurity, cloud infrastruct
 ## 🚀 Featured Projects
 
 ### Secure IoT Gateway
-Developed a secure gateway solution for IoT devices with end-to-end encryption, intrusion detection, and real-time monitoring capabilities.
+- **Description**: Developed a secure gateway solution for IoT devices with end-to-end encryption, intrusion detection, and real-time monitoring capabilities.
+- **Impact**: Enhanced IoT device security and enabled real-time threat detection for industrial applications.
 
 ### Cloud Security Framework
-Created a comprehensive security framework for multi-cloud environments with automated compliance checks and threat detection.
+- **Description**: Created a comprehensive security framework for multi-cloud environments featuring automated compliance checks and threat detection.
+- **Impact**: Streamlined security management across cloud platforms, reducing vulnerabilities and ensuring compliance.
+
+## 🛠️ Professional Experience
+
+### Cybersecurity Analyst – Hungry Hub (AppServation Co., Ltd.)  
+**Bangkok, Thailand** | *May 2024 – Aug 2024*  
+During my tenure at Hungry Hub, I enhanced the organization’s security posture by automating workflows, improving vulnerability management, and streamlining incident response processes.
+
+- **Automated Security Scanning & Vulnerability Management**  
+  - Implemented OWASP ZAP, GitHub Actions, and SonarQube for automated security scans on web apps and APIs.  
+  - Reduced vulnerability resolution time by 30% via CI/CD pipeline integration.  
+  - Enabled early detection of security flaws, minimizing pre-deployment risks.  
+
+- **Cloud Security & Incident Response Optimization**  
+  - Designed AWS Lambda workflows for efficient security alert processing.  
+  - Integrated AWS API Gateway for real-time, event-driven monitoring.  
+  - Improved incident response efficiency by automating alert categorization, cutting manual investigation time.  
+
+- **Scripting & Process Automation**  
+  - Developed Python and Shell scripts to automate log analysis and report generation.  
+  - Saved the security team 10+ hours/month, freeing focus for high-priority threats.  
+
+*Key Takeaway*: Strengthened expertise in application security, cloud security, DevSecOps, and automation.
+
+### Insider Threat Risk Solution Developer – UBS AG  
+**Singapore** | *Jan 2024 – Apr 2024*  
+At UBS AG, I built cutting-edge solutions to detect and mitigate insider threats using machine learning, microservices, and DevSecOps practices.
+
+- **Machine Learning for Insider Threat Detection**  
+  - Developed an anomaly detection model with TensorFlow and Scikit-learn to analyze user logs.  
+  - Reduced false positives by 25% through advanced feature engineering.  
+  - Improved detection accuracy by processing high-volume security logs.  
+
+- **High-Performance Microservices Development**  
+  - Built Python/Flask microservices with MySQL, handling 10,000+ daily transactions at 99.9% uptime.  
+  - Optimized queries and caching for faster API responses and system reliability.  
+
+- **CI/CD & DevSecOps Automation**  
+  - Streamlined CI/CD with GitLab and Docker, cutting deployment times by 40%.  
+  - Ensured secure deployments with automated testing and vulnerability scans.  
+
+*Key Takeaway*: Gained skills in ML-driven security, cloud-native microservices, and DevSecOps.
+
+### IoT & Web Development Intern – W2 Industrial Services Hub Pte. Ltd.  
+**Singapore** | *Aug 2020 – Feb 2021*  
+At W2 Industrial Services Hub, I enhanced industrial automation through IoT cloud integration and UI development.
+
+- **Cloud & IoT Integration**  
+  - Integrated AWS IoT Core, Lambda, and DynamoDB with industrial hardware, achieving 98% uptime.  
+  - Built real-time data pipelines for seamless edge-to-cloud communication.  
+
+- **IoT Dashboard & UI Development**  
+  - Created React.js and Node.js dashboards, empowering 50+ technicians with real-time insights.  
+  - Improved usability and reduced downtime via enhanced data visualization.  
+
+*Key Takeaway*: Developed expertise in IoT systems, cloud computing, and full-stack development.
+
+### IoT & Web Development Intern – Singapore Indoor Farms Pte. Ltd.  
+**Singapore** | *Aug 2020 – Feb 2021*  
+At Singapore Indoor Farms, I supported smart farming with cloud infrastructure, data management, and web interfaces.
+
+- **Cloud Infrastructure & IoT Integration**  
+  - Deployed AWS IoT Core, Lambda, and S3 for seamless sensor-to-backend connectivity.  
+  - Optimized real-time data transmission for farm monitoring and automation.  
+
+- **Data Management & Processing**  
+  - Managed large agricultural datasets with cleaning and processing pipelines.  
+  - Enhanced operational efficiency through automated workflows.  
+
+- **Web Interface Development for Indoor Farming**  
+  - Built a React.js and Flask dashboard for real-time sensor data and remote control.  
+  - Improved farm management with intuitive UI design.  
+
+*Key Takeaway*: Advanced skills in IoT-cloud integration, data engineering, and web development.
 
 ## 💻 Technical Skills
 

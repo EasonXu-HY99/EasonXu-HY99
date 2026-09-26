@@ -2,9 +2,9 @@
 
 # Haiyang Xu · Eason
 
-### Cybersecurity · Cloud Security · DevSecOps
+### Security Operations · Incident Response · Cloud Security
 
-Building security into applications, cloud workflows, and connected systems.
+Investigating security alerts and responding to threats across identity and cloud environments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/haiyang-xu-8a2151212/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-132F4C?style=flat-square)](https://haiyangxu.netlify.app/)
@@ -16,18 +16,18 @@ Building security into applications, cloud workflows, and connected systems.
 
 ---
 
-I'm a **Computer Science graduate from Singapore Management University**, with a focus on **Cybersecurity and Cyber-Physical Systems**. My experience spans application security testing, AWS security automation, machine-learning-based threat detection, and industrial IoT.
+I'm a **Computer Science graduate from Singapore Management University**, with a focus on **Cybersecurity and Cyber-Physical Systems**. I currently work as an **Engineer at Seatrium**, with responsibilities focused on **SOC L2 investigation and incident response**. My earlier experience spans application security testing, AWS security automation, machine-learning-based threat detection, and industrial IoT.
 
-My work at **Seatrium** includes Microsoft Sentinel-side support for AWS security log validation during cloud change activities. I combine this operational focus with earlier experience in security testing, automation, and connected systems.
+I handle cases escalated by **BlueVoyant's L1 team**, investigate alerts using **Microsoft Defender and Microsoft Sentinel**, and perform account containment and remediation actions. My work also includes firewall testing and support for cloud security log validation.
 
 ## Security Focus
 
 | Area | Practical experience |
 | :--- | :--- |
-| **Application Security** | Web and API vulnerability assessment; OWASP ZAP and SonarQube integration into CI/CD |
-| **Cloud Security & Automation** | Microsoft Sentinel-side AWS log validation; AWS Lambda and API Gateway alert workflows |
-| **Threat Detection & Monitoring** | Microsoft Sentinel, KQL-based log investigation, user-activity analysis, and anomaly detection |
-| **Secure Software & IoT** | Role-based access control, authenticated APIs, edge-to-cloud data flows, and operational dashboards |
+| **SOC L2 & Incident Investigation** | Investigating escalated BlueVoyant cases and alerts in Microsoft Defender and Microsoft Sentinel |
+| **Identity Incident Response** | Password resets, session revocation, and MFA authentication-method resets or revocation |
+| **Network & Cloud Security** | Firewall testing; Microsoft Sentinel-side AWS security log validation |
+| **Application Security & Automation** | Web and API security testing; CI/CD security checks; Python and Shell automation |
 
 ## Experience
 
@@ -35,12 +35,13 @@ My work at **Seatrium** includes Microsoft Sentinel-side support for AWS securit
 **Engineer**  
 Jun 2025 – Present
 
-*Focus: Microsoft Sentinel & Cloud Security Monitoring*
+*Focus: SOC L2 Investigation & Incident Response*
 
-- Support **Microsoft Sentinel-side validation** of AWS security logging during change windows, covering **CloudTrail, AWS Config, and GuardDuty** requirements.
-- Work with **Kusto Query Language (KQL)** to investigate account-specific events and time-bounded log activity for validation and evidence gathering.
-- Support coordination with the **cloud infrastructure team** on logging visibility and follow-up checks, with AWS-side configuration handled by that team.
-
+- Handle **L2 investigations** for security cases escalated by **BlueVoyant's L1 team**, reviewing alerts and supporting incident response.
+- Investigate security alerts using **Microsoft Defender and Microsoft Sentinel**, examining relevant logs and activity to assess suspicious behavior and determine response actions.
+- Perform **account containment and remediation** as required by investigations, including **password resets, session revocation, and MFA authentication-method resets or revocation**.
+- Conduct **firewall testing** to support validation of network security controls.
+- Support **AWS security log validation in Microsoft Sentinel**, using **KQL** for account-specific and time-bounded investigations and coordinating with cloud infrastructure teams during change activities.
 
 ### Hungry Hub · AppServation Co., Ltd.
 **Cybersecurity Analyst** · Bangkok, Thailand  
@@ -76,7 +77,9 @@ Aug 2020 – Feb 2021
 
 | Domain | Tools & technologies |
 | :--- | :--- |
-| **Security monitoring** | Microsoft Sentinel, KQL, AWS CloudTrail, AWS Config and GuardDuty log validation | 
+| **SOC & investigation** | Microsoft Sentinel, Microsoft Defender, KQL, BlueVoyant L1 case escalations |
+| **Incident response** | Account investigation, password resets, session revocation, MFA authentication-method remediation |
+| **Network & cloud monitoring** | Firewall testing; AWS CloudTrail, AWS Config and GuardDuty log validation |
 | **Security testing** | OWASP ZAP, SonarQube, vulnerability assessment, SQL injection testing |
 | **AWS** | Lambda, API Gateway, IoT Core, DynamoDB, S3, IAM |
 | **Automation & delivery** | Python, Shell, GitHub Actions, GitLab CI/CD, Docker |
@@ -111,6 +114,6 @@ Mar 2018 – Apr 2021
 
 ### Let's Connect
 
-Interested in work at the intersection of **application security, cloud security, and DevSecOps**.
+Interested in opportunities across **security operations, incident response, and cloud security**.
 
 [LinkedIn](https://www.linkedin.com/in/haiyang-xu-8a2151212/) · [Portfolio](https://haiyangxu.netlify.app/) · [haiyangeasoon@gmail.com](mailto:haiyangeasoon@gmail.com)

@@ -32,7 +32,10 @@ My work at **Seatrium** includes Microsoft Sentinel-side support for AWS securit
 ## Experience
 
 ### Seatrium
-**Work focus: Microsoft Sentinel & Cloud Security Monitoring**
+**Engineer**  
+Jun 2025 – Present
+
+*Focus: Microsoft Sentinel & Cloud Security Monitoring*
 
 - Support **Microsoft Sentinel-side validation** of AWS security logging during change windows, covering **CloudTrail, AWS Config, and GuardDuty** requirements.
 - Work with **Kusto Query Language (KQL)** to investigate account-specific events and time-bounded log activity for validation and evidence gathering.

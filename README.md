@@ -10,7 +10,7 @@ Building security into applications, cloud workflows, and connected systems.
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-132F4C?style=flat-square)](https://haiyangxu.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-187A72?style=flat-square)](mailto:haiyangeasoon@gmail.com)
 
-[Experience](#experience) · [Selected Projects](#selected-projects) · [Technical Toolkit](#technical-toolkit) · [Education--certifications](#education--certifications)
+[Experience](#experience) · [Selected Projects](#selected-projects) · [Technical Toolkit](#technical-toolkit) · [Education & Certifications](#education--certifications)
 
 </div>
 
